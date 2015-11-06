@@ -13,7 +13,7 @@ public class MeuPrograma {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Minha primeira aplicaÃ§Ã£o Java!");
+		System.out.println("Minha primeira aplicação Java!");
 	}
 
 }
